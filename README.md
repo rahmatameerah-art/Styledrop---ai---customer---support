@@ -14,7 +14,7 @@ StyleDrop AI replaces manual customer support handling with an automated process
 
 ---
 
-## ⚙️ How It Works## ⚙️ How It Works
+## ⚙️ How It Works
 
 ```text
 [ Google Form Inquiry ] ──> [ Google Sheet Log ] ──> [ Make.com Trigger ] ──> [ Google Gemini AI ] ──> [ Gmail Auto-Reply ]
