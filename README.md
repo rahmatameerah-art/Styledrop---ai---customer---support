@@ -19,10 +19,3 @@ StyleDrop AI replaces manual customer support handling with an automated process
 
 ```text
 [ Google Form Inquiry ] ➔ [ Google Sheet Log ] ➔ [ Make.com Trigger ] ➔ [ Google Gemini AI ] ➔ [ Gmail Inbox Review ]
----
-
-### How to apply this final fix:
-1. Click the **pencil icon** (Edit file) at the top right of your GitHub README.
-2. Select all text and replace it completely with the block above.
-3. Scroll down to `## 🖼️ Workflow Architecture`, click on a new line, and **drag and drop your Make.com screenshot file directly into the GitHub editor**. GitHub will generate the image link instantly.
-4. Click **Commit changes...** at the top right.
