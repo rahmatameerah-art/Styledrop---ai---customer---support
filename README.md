@@ -17,5 +17,34 @@ StyleDrop AI replaces manual customer support handling with an automated process
 
 ## ⚙️ How It Works
 
-```text
-[ Google Form Inquiry ] ➔ [ Google Sheet Log ] ➔ [ Make.com Trigger ] ➔ [ Google Gemini AI ] ➔ [ Gmail Inbox Review ]
+`[ Google Form Inquiry ]` ➔ `[ Google Sheet Log ]` ➔ `[ Make.com Trigger ]` ➔ `[ Google Gemini AI ]` ➔ `[ Gmail Inbox Review ]`
+
+1. **Intake:** A customer submits a complaint or inquiry via Google Forms.
+2. **Logging:** The form submission is automatically logged as a new row in Google Sheets.
+3. **Trigger:** Make.com detects the new row instantly.
+4. **AI Processing:** Make.com sends the complaint context to Google Gemini AI to categorize the complaint (*Delivery*, *Refund*, or *Product Quality*) and draft an accurate, polite reply.
+5. **Dispatch:** Make.com sends both the categorization tag and the draft reply directly to a Gmail inbox for human review.
+
+---
+
+## 🖼️ Workflow Architecture
+
+![StyleDrop Workflow Screenshot](https://github.com/user-attachments/assets/Screenshot%202026-07-23%20121447)
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Automation Platform:** [Make.com](https://make.com)
+* **AI Model:** Google Gemini AI
+* **Data Logging:** Google Sheets
+* **Email Service:** Gmail
+
+---
+
+## 👤 Author & Credits
+
+* **Project Lead:** Rahmat Inuwa
+* **Location:** Nigeria / Minna
+* **Program:** Deep_Tech / WESOnline Mentorship Program
+* **Contact:** rahmatameerah@gmail.com
