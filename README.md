@@ -29,8 +29,7 @@ StyleDrop AI replaces manual customer support handling with an automated process
 
 ## 🖼️ Workflow Architecture
 
-![StyleDrop Workflow Screenshot](https://github.com/user-attachments/assets/Screenshot%202026-07-23%20121447)
-
+![StyleDrop Workflow Screenshot](workflow-screenshot.png)
 ---
 
 ## 🛠️ Tools & Technologies
