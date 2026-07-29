@@ -22,7 +22,7 @@ StyleDrop AI replaces manual customer support handling with an automated process
 1. **Intake:** A customer submits a complaint or inquiry via Google Forms.
 2. **Logging:** The form submission is automatically logged as a new row in Google Sheets.
 3. **Trigger:** Make.com detects the new row instantly.
-4. **AI Processing:** Make.com sends the complaint context to Google Gemini AI to categorize the complaint (*Delivery*, *Refund*, or *Product Quality*) and draft an accurate, polite reply.
+4. **AI Processing:** Make.com sends the complaint context to Google Gemini AI to categorize the complaint (**Delivery**, **Refund**, or **Product Quality**) and draft an accurate, polite reply.
 5. **Dispatch:** Make.com sends both the categorization tag and the draft reply directly to a Gmail inbox for human review.
 
 ---
